@@ -2,55 +2,32 @@
 layout: default
 ---
 
-## Trochę o mnie
-Studiuję kierunek ,,Informatyka i Systemy Inteligentne" na krakowskiej uczelni AGH. 
+## O mnie
+Studiuję kierunek ,,Informatyka i Systemy Inteligentne" na krakowskiej uczelni AGH. Od najmłodszych lat interesowałam się przedmiotami ścisłymi, a dodatkowo nieustanny rozwój branży IT zmotywował mnie do kierowania przyszłości właśnie w tym kierunku. Nie poprzestaje na jednym planie, a największą moją pasją jest modeling, który otwiera wiele możliwości w całkiem innym, artystycznym świecie.
 
-## Header 2
+## Cytat
 
-> This is a blockquote following a header.
+> Wszystko możesz mieć, jeśli tylko chcesz więc uwierz
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> w cuda.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Aktualne projekty
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   [Fishcards](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/Fishcards)
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Wykształcenie
 
-###### Header 6
+| edukacja                                                                  |
+|:--------------------------------------------------------------------------|
+| II Liceum Ogólnokształcące im. Króla Jana III Sobieskiego w Krakowie      |
+| PSM im. Grażyny Bacewicz w Limanowej                                      |
+| Akademia Górniczo Hutnicza im. Stanisława Staszica w Kwakowie (aktualnie) |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
 
 
